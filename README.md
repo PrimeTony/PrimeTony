@@ -4,7 +4,7 @@
 
 Currently leading the development of a multi-purpose service providing website. Check it out [here](https://github.com/PrimeTony/VersaHelp.git).
 
-Building responsive websites.
+
 
 📧 Reach Me @ [hulisaniimbedzi@outlook.com](mailto:hulisaniimbedzi@outlook.com)
 
