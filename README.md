@@ -1,7 +1,6 @@
-# About Me
+# what im Upto...
 
-🌟 I’m a driven Full Stack Developer committed to learning, collaborating, and creating.
-
+🌟 
 Currently leading the development of a multi-purpose service providing website. Check it out [here](https://github.com/PrimeTony/VersaHelp.git).
 
 
