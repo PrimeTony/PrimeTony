@@ -23,5 +23,5 @@ Currently leading the development of a multi-purpose service providing website. 
 ![PrimeTony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeTony&show_icons=true&theme=radical)
 
 
-## Resume
-Check out my Resume [here](https://primetony.github.io/PrimeWebsite/)
+## Portfolio
+Check out my Portfolio [here](https://primetony.github.io/PrimeWebsite/)
