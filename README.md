@@ -21,3 +21,5 @@ Check out my Resume [here](https://primetony.github.io/PrimeWebsite/)
 
 ## GitHub Stats
 ![PrimeTony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeTony&show_icons=true&theme=radical)
+
+![GitHub watchers](https://img.shields.io/github/watchers/PrimeTony/VersaHelp)
