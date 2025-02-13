@@ -2,7 +2,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/PrimeTony/VersaHelp)
 
 🌟 
-Currently leading the development of a multi-purpose service providing website. Check it out [here](https://github.com/PrimeTony/VersaHelp.git).
+Currently leading the development of a multi-purpose service providing website. Clone Repository [here](https://github.com/PrimeTony/VersaHelp.git).
 
 📧 Reach Me @ [hulisaniimbedzi@outlook.com](mailto:hulisaniimbedzi@outlook.com)
 
