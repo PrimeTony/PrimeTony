@@ -1,4 +1,5 @@
 # Tony Mbedzi Entry Level Software Developer.
+![GitHub watchers](https://img.shields.io/github/watchers/PrimeTony/VersaHelp)
 🌟 
 Currently leading the development of a multi-purpose service providing website. Check it out [here](https://github.com/PrimeTony/VersaHelp.git).
 
@@ -15,10 +16,11 @@ Currently leading the development of a multi-purpose service providing website. 
 ### Cloud & DevOps
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Resume
-Check out my Resume [here](https://primetony.github.io/PrimeWebsite/)
+
 
 ## GitHub Stats
 ![PrimeTony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeTony&show_icons=true&theme=radical)
 
-![GitHub watchers](https://img.shields.io/github/watchers/PrimeTony/VersaHelp)
+
+## Resume
+Check out my Resume [here](https://primetony.github.io/PrimeWebsite/)
