@@ -1,4 +1,4 @@
-# Tony Mbedzi Software Developer.
+# Software Developer.
 ![GitHub watchers](https://img.shields.io/github/watchers/PrimeTony/VersaHelp)
 
 🌟 
