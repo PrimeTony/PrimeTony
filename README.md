@@ -21,9 +21,9 @@ Currently leading the development of a multi-purpose service providing website. 
 ## GitHub Stats
 ![PrimeTony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeTony&show_icons=true&theme=radical)
 
-## 📬 Contact
+## 📬 Other
 **Tony Prime**  
-[Email](hulisanii99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tony-mbedzi/)
+[LinkedIn](https://www.linkedin.com/in/tony-mbedzi/)
 
 ## Portfolio
 Check out my Portfolio [here](https://primetony.github.io/My-Portfolio/)
