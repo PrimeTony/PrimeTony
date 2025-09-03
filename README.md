@@ -18,10 +18,12 @@ Currently leading the development of a multi-purpose service providing website. 
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-
 ## GitHub Stats
 ![PrimeTony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeTony&show_icons=true&theme=radical)
 
+## 📬 Contact
+**Tony Prime**  
+[Email](hulisanii99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tony-mbedzi/)
 
 ## Portfolio
 Check out my Portfolio [here](https://primetony.github.io/My-Portfolio/)
