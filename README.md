@@ -24,4 +24,4 @@ Currently leading the development of a multi-purpose service providing website. 
 
 
 ## Portfolio
-Check out my Portfolio [here](https://primetony.github.io/PrimeWebsite/)
+Check out my Portfolio [here]([https://primetony.github.io/PrimeWebsite/](https://primetony.github.io/My-Portfolio/)
