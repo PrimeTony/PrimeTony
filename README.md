@@ -23,7 +23,7 @@ Currently leading the development of a multi-purpose service providing website. 
 
 ## 📬 Other
 **Tony Prime**  
-[LinkedIn](www.linkedin.com/in/hulisani-mbedzi-394111392/)
+[LinkedIn](www.linkedin.com/in/hulisani-mbedzi-394111392)
 
 ## Portfolio
 Check out my Portfolio [here](https://primetony.github.io/My-Portfolio/)
